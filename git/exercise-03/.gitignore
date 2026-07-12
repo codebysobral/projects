@@ -1,0 +1,5 @@
+# *.txt <- An asterisk is used to match all items of a certain type.
+
+# !log.txt <- An exclamation mark is used to define an exception.
+
+# /main-folder <- A slash is used to ignore an entire folder.
