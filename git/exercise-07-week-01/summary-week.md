@@ -29,3 +29,7 @@ I connected my local repository to my remote repository for the first
 time, performed my first `git push`, made a change on GitHub and
 retrieved it using `git pull`, and cloned a repository using
 `git clone`.
+
+
+#Link to this week's mini-project.
+https://github.com/codebysobral/cardapio-digital-
