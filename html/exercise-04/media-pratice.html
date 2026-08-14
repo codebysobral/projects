@@ -1,0 +1,58 @@
+# Media Practice
+
+A simple isolated HTML file for practicing common media elements.
+
+## `media-pratice.html`
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Media Practice</title>
+</head>
+<body>
+
+  <h1>Media Practice</h1>
+
+  <h2>Images</h2>
+
+  <!-- Descriptive image -->
+  <img src="image.jpg" alt="A mountain landscape at sunset">
+
+  <!-- Decorative image -->
+  <img src="decoration.png" alt="">
+
+  <h2>Figure</h2>
+
+  <figure>
+    <img src="landscape.jpg" alt="A green valley surrounded by mountains">
+    <figcaption>A peaceful mountain landscape.</figcaption>
+  </figure>
+
+  <h2>Audio</h2>
+
+  <audio controls>
+    <source src="audio.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+
+  <h2>Video</h2>
+
+  <video controls width="640">
+    <source src="video.mp4" type="video/mp4">
+    Your browser does not support the video element.
+  </video>
+
+</body>
+</html>
+```
+
+## Practice Checklist
+
+* Use descriptive `alt` text for meaningful images.
+* Use `alt=""` for decorative images.
+* Group images with `<figure>` and `<figcaption>` when appropriate.
+* Add `controls` to `<audio>` and `<video>`.
+* Keep media files in the same folder as the HTML file.
