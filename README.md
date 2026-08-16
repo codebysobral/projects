@@ -35,7 +35,7 @@ Each folder represents a technology or concept and contains projects, exercises,
 ## 📈 Learning Roadmap
 
 - [x] Git e GitHub
-- [ ] HTML5
+- [x] HTML5
 - [ ] CSS3
 - [ ] JavaScript
 - [ ] TypeScript
